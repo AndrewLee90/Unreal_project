@@ -1,2 +1,2 @@
-# This repository is sample for Unreal_projects
-from youtube tutorials
+# This repository includes Unreal_projects
+# samples from youtube tutorials
